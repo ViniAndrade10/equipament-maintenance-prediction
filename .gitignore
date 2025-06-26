@@ -176,3 +176,4 @@ cython_debug/
 ## Ignore
 .env-win
 *.csv
+*mlruns
